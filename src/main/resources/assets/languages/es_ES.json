@@ -65,7 +65,7 @@
       "premium": {
         "generic_sellout": "Necesitamos tu ayuda para mantener a Mantaro viva y para mejorar sus servidores!\nPuedes conseguir bonos increíbles y hasta **el doble de creditos con Mantaro Premium**! Membresías empiezan en $2 por mes. Puedes conseguir más información en <https://patreon.com/mantaro>. Ayudanos a correr la voz también :heart:",
         "daily_sellout": "We need your help to keep Mantaro alive!\nYou can get amazing perks and **double the daily credits** and access to `~>dailycrate`! Memberships start at only $2 per month, check out more at <https://patreon.com/mantaro>.",
-        "thanks_message": "Thank you for supporting Mantaro. Without help from people like you we couldn't keep Mantaro alive :heart:",
+        "thanks_message": "Muchas gracias por ayudar a Mantaro. Sin la ayuda de gente como tú no Mantaro no podría seguir en línea. :heart:",
         "thanks_message_daily": "Thank you for supporting Mantaro. Without help from people like you we couldn't keep Mantaro alive :heart:\nYou also get double the credits as a bonus!"
       },
       "twitter": "Did you know we have a Twitter account? Yes we do! Follow us at (at)mantarodiscord <https://twitter.com/mantarodiscord> for updates and silly stuff."
@@ -319,7 +319,7 @@
       "success": "%1$sAdelanté la canción a %2$s."
     },
     "move": {
-      "no_voice": "%1$sYou're not in a voice channel, or the bot isn't in one.",
+      "no_voice": "%1$sTú no estás en un canal de voz, o el bot no está en uno.",
       "attempt": "%1$sIntentaré moverme al canal de voz donde te encuentras",
       "error_moving": "%1$sNo pude moverme al canal de voz :(.",
       "cannot_connect": "%1$sImposible conectarse: No tengo permiso para hablar en ese canal o no tengo permiso para moverme ahí.",
@@ -476,13 +476,13 @@
         "too_many_commands": "%1%sHay demasiados comandos en este servidor, por lo que no puedes agregar más (+100). Este límite puede ser sobrepasado en guilds premium (revisa <https://patreon.com/mantaro>)."
       },
       "lockcommand": {
-        "no_permission": "%1$sYou need the Manage Server permission to lock and unlock commands.",
-        "no_command": "%1$sYou need to specify the command you want to lock.",
+        "no_permission": "%1$sNecesitas el permiso Gestionar servidor para bloquear y desbloquear los comandos que quieras.",
+        "no_command": "%1$sNecesitas especificar el comando que quieres bloquear.",
         "success": "%1$sSuccesfully locked the `%2$s` command. You'll need to unlock it for further edits."
       },
       "unlockcommand": {
-        "no_command": "%1$sYou need to specify the command you want to unlock.",
-        "not_locked": "%1$sThis command isn't locked.",
+        "no_command": "%1$sNecesitas especificar el comando que quieres bloquear.",
+        "not_locked": "%1$sEste comando no está bloqueado.",
         "success": "%1$sSuccesfully unlocked the `%2$s` command. You'll need to lock it later if you want to avoid further edits."
       },
       "character_not_allowed": "%1$sEste carácter no está habilitado para ser usado en los nombres de comandos personalizados.",
@@ -574,7 +574,7 @@
         "love_letter": "Carta de amor",
         "waifus": "Waifus",
         "house": "House Name",
-        "car": "Car Name",
+        "car": "Nombre del carro",
         "pet": "Pet Name (Type)"
       },
       "timezone": {
@@ -583,7 +583,7 @@
         "success": "%1$sSuccessfully set marriage timezone to %2$s. Pet time will be the same as the marriage timezone."
       },
       "general": {
-        "not_married": "%1$sYou're not married."
+        "not_married": "%1$sTú no estás casado."
       },
       "buyhouse": {
         "not_married": "%1$sYou can only buy a house while you're married. This might change in the future.",
@@ -616,9 +616,9 @@
     },
     "divorce": {
       "confirm": "%1$sAre you sure you want to end this marriage? The money spent in pets, houses and cars will be split in two. Type `yes` to continue and `no` to cancel. **Your pet will dissapear, since it's tied to the marriage**",
-      "cancelled": "%1$sCancelled divorce.",
+      "cancelled": "%1$sDivorcio cancelado.",
       "not_married": "%1$sNo estás casado con nadie, ¿Por qué no encuentras a ese alguien especial?",
-      "success": "%1$sNow you're single. That's nice I guess.\n%2$s",
+      "success": "%1$sAhora estás soltero, eso es bueno supongo.\n%2$s",
       "split": "The money left was split between the two parties by selling their assets (pet, house, car). Each one got **%1$d** credits on their wallet."
     },
     "waifu": {
